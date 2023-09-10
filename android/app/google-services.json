@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "728078945825",
+    "firebase_url": "https://ecity-ac116.firebaseio.com",
+    "project_id": "ecity-ac116",
+    "storage_bucket": "ecity-ac116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728078945825:android:e4a631b29513b375295d60",
+        "android_client_info": {
+          "package_name": "com.mmfinfotech.ecitymerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPh2FPPvZajZreHOhgslDfV5hIVNlUmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728078945825-72mvs3s4jjqndoh793colu0cgd5u4q78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alphaxtech.ecitymerchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728078945825:android:b26316ad236eb99f295d60",
+        "android_client_info": {
+          "package_name": "com.mmfinfotech.ecityuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPh2FPPvZajZreHOhgslDfV5hIVNlUmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728078945825-72mvs3s4jjqndoh793colu0cgd5u4q78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alphaxtech.ecitymerchant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728078945825:android:bf63997ef895553d295d60",
+        "android_client_info": {
+          "package_name": "com.nzue.avauserapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPh2FPPvZajZreHOhgslDfV5hIVNlUmBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728078945825-vvfefm8artold3sjlm8087rve2rn7s0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728078945825-72mvs3s4jjqndoh793colu0cgd5u4q78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alphaxtech.ecitymerchant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
